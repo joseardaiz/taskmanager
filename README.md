@@ -22,7 +22,6 @@ project-1-spring-react/ │ ├── backend/ -> Spring Boot application └─
 
 ### Backend
 
-```bash
 cd backend
 ./mvnw spring-boot:run
 
@@ -32,7 +31,7 @@ cd frontend
 npm install
 npm run dev   # or npm start if using CRA
 
- Features
+### Features
  RESTful API endpoints
  Persistent storage
  React UI with form inputs and API integration
