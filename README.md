@@ -32,8 +32,9 @@ npm install
 npm run dev   # or npm start if using CRA
 
 ### Features
- RESTful API endpoints
- Persistent storage
- React UI with form inputs and API integration
- Error handling & validation
- Environment-based config
+
+RESTful API endpoints
+Persistent storage
+React UI with form inputs and API integration
+Error handling & validation
+Environment-based config
